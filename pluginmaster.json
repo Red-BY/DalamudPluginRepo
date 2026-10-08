@@ -1,0 +1,32 @@
+[
+    {
+        "Author": "Red-BY",
+        "Name": "High Resolution Previews",
+        "Punchline": "Increases the render resolution of in-game character preview windows.",
+        "Description": "Allows you to customize the render resolution used by Character, Try On, Inspect, Glamour, Adventurer Plate, and similar preview windows so they look sharper.",
+        "Changelog": "",
+        "InternalName": "XIVHighResPreviews",
+        "AssemblyVersion": "0.1.1.0",
+        "RepoUrl": "https://github.com/Red-BY/XIVHighResPreviews",
+        "ApplicableVersion": "any",
+        "Tags": [
+            "preview",
+            "resolution",
+            "chara",
+            "graphics"
+        ],
+        "CategoryTags": [
+            "utility"
+        ],
+        "DalamudApiLevel": 15,
+        "IconUrl": "",
+        "ImageUrls": [],
+        "DownloadLinkInstall": "https://github.com/Red-BY/XIVHighResPreviews/releases/download/v0.1.1.0/latest.zip",
+        "IsHide": false,
+        "IsTestingExclusive": false,
+        "DownloadLinkTesting": "https://github.com/Red-BY/XIVHighResPreviews/releases/download/v0.1.1.0/latest.zip",
+        "DownloadLinkUpdate": "https://github.com/Red-BY/XIVHighResPreviews/releases/download/v0.1.1.0/latest.zip",
+        "DownloadCount": 0,
+        "LastUpdate": "1791476110"
+    }
+]
